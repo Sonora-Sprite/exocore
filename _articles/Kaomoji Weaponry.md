@@ -24,5 +24,3 @@ spear ―――→
 grabber ――――C
 sword _／ or ¤=[]:::::>
 boxing gloves QQ.
-
-#
