@@ -7,8 +7,12 @@
         "id": "22f17adc312b3860",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_articles/Phantom Bonkler.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_articles/Phantom Bonkler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_articles/Phantom Bonkler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_articles/Phantom Bonkler.md"
+              }
             }
           }
         ]
@@ -120,8 +128,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e509f202f4abd033",
+  "active": "22f17adc312b3860",
   "lastOpenFiles": [
+    "assets/attachments/average milady.png",
+    "_articles/Exocore Installation Instructions.md",
     "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
     "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
     "_journal/Jade post.md",
@@ -129,8 +139,6 @@
     "_daily/2022-10-02.md",
     "_articles/Phantom Bonkler.md",
     "_articles/Auction Core Thread.md",
-    "_articles/Greetings.md",
-    "_articles/Kaomoji Weaponry.md",
-    "exocore/_templates/_article.md"
+    "_articles/Greetings.md"
   ]
 }
