@@ -1,46 +1,47 @@
-/* ### Theme: Web 1 ### */
+/* ### Theme: Yotsuba ### */
 
 /* === Base Settings === */
 
 /* --- Body Colors --- */
 
-$background: #f2f2f2;
-$color-inner-divs: $background;
-$color-items: $background;
+$background: lightgrey;
+$color-border: none;
+$color-inner-divs: white;
+$color-items: white;
 
 
 /* --- Text Colors --- */
 $color-text: black;
 $color-subtext: black;
-$color-code: pink;
+$color-code: #707070;
 $internal-links: blue;
 $external-links: blue;
 $invalid-links: $internal-links;
-$color-primary: blue;
+$color-primary: darkblue;
 $color-secondary: blue;
 $color-box-shadow: none;
 
 
 /* --- Borders --- */
-$article-border: 1px solid black;
-$sidebar-border: 1px solid black;
-$prev-next-border: none;
+$article-border: 1px solid rgba(255, 255, 255, 0.6);
+$sidebar-border: 1px solid rgba(255, 255, 255, 0.6);
+$prev-next-border: 1px solid rgba(255, 255, 255, 0.6);
 $color-item-border: none;
 $border-radius: 0px;
 
 /* --- Embeds, Sidenote and Footnote Colors --- */
-$embed-border: 2px solid black;
-$color-embed-background: white;
+$embed-border: medium double blue;
+$color-embed-background: $color-inner-divs;
 $color-embed-title: black;
 $color-embed-text: black;
 
-$footnote-border: 2px  black;
-$color-footnote-background: white;
-$color-footnote-text: black;
+$footnote-border: thin solid blue;
+$color-footnote-background: $color-inner-divs;
+$color-footnote-text: blue;
 
-$sidenote-border: thin solid $color-primary;
-$color-sidenote-background: white;
-$color-sidenote-text: $color-text;
+$sidenote-border: thin solid $color-secondary;
+$color-sidenote-background: #fffffa;
+$color-sidenote-text: black;
 
 
 
@@ -49,64 +50,85 @@ $font-family-sans-serif: Helvetica, Arial, -apple-system, BlinkMacSystemFont, Se
 
 $font-family-serif: serif;
 
-$font-family-monospace: "Courier", "Lucida Console", "Menlo Regular", "IBM Plex Mono", "Fira Code", "Fira Mono","Roboto Mono","Droid Sans Mono",Monaco,Consolas,Courier,monospace;
+$font-family-monospace: ”Iosevka Term SS03”,”IBM Plex Mono”,”Fira Code”,”Fira Mono”,”Roboto Mono”,”Droid Sans Mono”,Monaco,Consolas,Courier,monospace;;
+
+/* === Body === */
+
+article {
+    margin-bottom: 0.5em;
+}
 
 
 body {
-  font-family: $font-family-serif;
+  background-color: black;
+  background-image: url("/assets/imgs/BGs/BGtile-16.png");
+  background-repeat: repeat;
+    background-attachment: fixed;
+  box-sizing: content-box;
+  font-family: $font-family-sans-serif;
+  margin: 0 auto;
+  line-height: 1.1em;
+  padding: 2rem;
+  overflow-x: hidden;
+  color: $color-text;
+  font-size: 1rem;
+}
+body {
+  font-family: $font-family-sans-serif;
   padding: 4vh 6vw;
   overflow-x: hidden;
   color: $color-text;
-  font-size: 0.8rem;
+  font-size: 1rem;
   background-color:$background;
 }
 
 
-/* TITLES
-================================================== */
+img {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+  max-height: 75vh;
+  border-radius: $border-radius;
+  border: none;
+  width:80%;
+}
+
+blockquote {
+  padding: 1em;
+  color:#9f9922;
+  margin: 0;
+  font-size: 1em;
+}
+
+ul {
+  list-style-type: bullet;
+}
+
+hr {
+  margin:1.5em;
+  margin-bottom:0em;
+ background-color: $color-box-shadow;
+}
 
 h1,h2,h3,h4,h5,h6 {
   line-height: 1.4;
   padding-bottom: 0;
   font-size:1.15em;
   margin:1em;
-  margin-left:0em;
+  margin-left:1em;
+  text-align:left
 }
 
-.title-text { text-transform:uppercase; text-decoration:underline; text-align:center; font-weight:bold; margin:0em; line-height:1em;}
+.title-text { color: white; font-weight:bold; font-size:1.6em; line-height:1em; margin:0em; text-align:center; padding:1em; padding-bottom:0.5em; text-decoration:none !important; text-shadow: 0px 0px 6px darkblue; text-transform: uppercase}
 
-.post-content{
-    
-h1 {text-transform:uppercase; text-align:center;font-weight:bold; text-decoration: underline; font-size: 1.3em;}
-
-h2 {text-transform:uppercase; text-align:left;font-weight:bold; font-size: 1.25em}
-
-h3 {text-transform:none;font-weight:normal; text-decoration:underline;text-align:left; margin-left:1em;}
-
-h4 {text-transform:none;font-weight:normal; font-size:1em; text-align:left}
-}
-
-
-ul {
-  list-style-type: circle;
-}
-
-hr {
-    margin:0em;
-    border: none;
-    border-bottom: $article-border;
-    width: 100%;
-    margin: auto;
-}
-
-
-
-/* CODE HIGHLIGHTING
-================================================== */
+h1 {color:blue; font-weight:bold; text-decoration:underline; font-size: 1.3em;}
+h2 {color:blue; font-weight:bold;}
+h3 {color:blue; font-weight:normal; text-decoration:underline}
+h4 {text-transform:none;font-weight:strong; font-size:1em;}
+h5 {text-transform:none;font-weight:normal; text-decoration:underline; tfont-size:1em;}
 
 code {
-  color: white;
-  background-color:black;
+  color: $color-code;
   font-family: $font-family-monospace;
   font-size: 1em;
 }
@@ -115,15 +137,19 @@ PRE {
   margin-left: 1em;
 }
 
+*:focus {
+  background: white !important;
+  color: black !important;
+}
 
-/* LINKS
-================================================== */
+/* -- Links -- */
 
 a {
   color: $external-links;
   text-decoration:underline;
   }
     a:hover {
+    color:red !important;
     text-decoration: underline;
     cursor: pointer;
   }
@@ -144,14 +170,22 @@ a {
         
     }
 
-.sidenote a {
-    font-weight: normal !important;
 
+nav a.intern-link::before{
+  content:""; color:blue;
+}
+
+.sidenote a, nav a {
+    font-weight: normal !important;
+    text-decoration:underline
+}
+
+.sidenote a:hover{
+    font-weight: normal !important;
+    text-decoration:underline
 }
 nav a {
-    color: blue !important;
-    text-decoration: underline;
-  
+  color: blue !important;
 }
 .anchor a {
   color: $color-text;
@@ -166,11 +200,7 @@ nav a {
   cursor: pointer;
 }
 
-
-
-/* HEADER ANCHORS
-================================================== */
-
+/* --- Header Anchors --- */
 .anchor {visibility: hidden; color:gray; opacity:0.7; text-decoration:none; font-size: 0.8em; font-familiy:monospace}
 .anchor:hover {text-decoration:none; color:black !important; cursor:pointer;}
 h1:hover > a.anchor,
@@ -183,21 +213,56 @@ h6:hover > a.anchor {
 } 
 
 
-/* PAGE FORMATTING
-================================================== */
+
+/* === Page Formatting === */
 
 .title {
-  border: $color-item-border; padding: 1em;
-  margin-bottom:1em;
+  border: $color-border; 
+  padding: 0em;
+  margin-bottom:0em;
+  text-align:center;
 }
 
-/* BACKLINKS
-================================================== */
+nav {
+  background-color: $color-inner-divs;
+  border: $color-border; padding: 1em;
+    box-shadow: 1px 1px 0px $color-box-shadow;
+ color: blue;
+ font-weight: normal; 
+ padding: 1em;
+ margin: 1em 0 1em;
+}
+
+.alignleft {
+  float: left;
+    text-align:left;
+}
+.alignright {
+  float: right;
+   text-align:right;
+}
+
+.border, .notes-entry-container {
+  border: $color-border; 
+  padding: 2em;
+  padding-top:1em;
+   @media (max-width: 700px) {
+    border:none;
+    padding:none;
+  }
+}
+
+
+/* -- Interlinks -- */
 
 .backlink-box {
-// This is the box around the backlinks.
-// add your own styling here if you want
+  background-color: $color-inner-divs;
+  border: $color-border;
+      box-shadow: 1px 1px 0px $color-box-shadow;
+  padding:1em;
+  line-height:1em;
 }
+
 
 .backlinks-excerpt{
   font-size: 0.9em; color: $color-subtext;
@@ -206,27 +271,40 @@ h6:hover > a.anchor {
   font-size: 0.9em; text-align:center;
 }
 
-#graph-wrapper svg {
-    border: 2px  black;
+.note {
+  border: $color-border;
+  padding:1em; padding-top:0em; 
+}
+.content {
+  margin-left:2em; 
+  margin-right:1em; 
+  line-height: 1.1em;
+  padding-top:0.5em;
+
+}
+.content p {
+  margin-left:1em;
 }
 
-/* TABLE OF CONTENTS
-================================================== */
 
+/* Table of Contents */
 .toc-container{
-  border: $color-item-border; 
-  padding: 1em;
-  padding-bottom: 0em;
+    padding:1em;
+  border: $color-border; 
+    box-shadow: 1px 1px 0px $color-box-shadow;
+  background-color: $color-inner-divs;
   margin: 1em;
+  margin-top:2em;
   margin: 0 auto;
   display: block;
   max-width: 50%;
-    @media (max-width: 700px) {
-  max-width:100%;
-  }
 }
 .toc-container h1 {
   margin:0em;
+  color:$color-secondary;
+  text-align:center;
+  font-size:1em;
+  text-decoration:none !important;
 }
 
 .toc-container ol li  {
@@ -238,48 +316,21 @@ h6:hover > a.anchor {
 }
 
 
-
-/* FOOTER
-================================================== */
-
-.footer-nav {
-  margin:1em;
-  font-size: 0.8em;
-  color: $color-text;
-  text-align:center;
-}
-
-license {
-  text-align: center;
-  font-family: $font-family-monospace;
-  font: 1.1em;
-}
-
-.license {
-  padding:1em; margin-top:1em; max-width: 28em; margin: 0 auto; text-align:center;
-}
-
-
 //--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--\\
 //--=--=--=--=--=--=--=--=*EXTRAS*=--=--=--=--=--=--=--=--\\
-//--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--\\
-
+//--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--\\ 
 
 
 /* STRUCTURE
 ================================================== */
 
-.sidebar-card, .index-card, .archive-card {
-    margin-bottom: 0px;
+.sidebar-card, .index-card, .archive-cardi {
+    margin-bottom: 1em;
     float: left;
     clear: both;
-    background-color: $background;
     padding: 0.5em 1em;
     box-sizing: border-box;
     width: 100%;
-}
-
-.index-card, .archive-card {
 }
 
 .container-lg {
@@ -290,26 +341,14 @@ license {
 .leftcolumn {
     float: left;
     width: 15%;
-    margin: 0em;
-    border: $sidebar-border;
-
-     @media (max-width: 900px)
-     {width: 100%;
-         margin: auto
-         }}
+    margin: 0.5em;
+}
 
 .midcolumn {
     float: left;
     width: 60%;
-    margin: 0em;
-    margin-left: -2px;
-    border: $sidebar-border;
-
-    
-@media (max-width: 900px)
-     {width: 100%;
-    margin: auto
-}}
+    margin: 0.5em;
+}
 
 .midcolumn-small {
     width: 40%;
@@ -320,13 +359,8 @@ main {
 margin: auto;
 }
 
-.post-info {
-}
-
 article {
-    background-color: $background;    
     box-shadow: 1px 1px 0px $color-box-shadow;
-    
 }
 
 
@@ -344,7 +378,7 @@ article {
     margin: auto;
     padding-bottom: 0.5em;
     text-align: center;
-    color: black;
+    color: white;
 }
 
 .related ul {
@@ -419,7 +453,7 @@ article {
 .home-card {
     width: 400px;
     margin: auto;
-    padding: -2px; 
+    padding: 25px; 
     background-color: $background;
     border: $article-border;
 }
@@ -439,7 +473,6 @@ article {
     display: grid;
     grid-template-columns: 15% 70% 15%;
     padding: 5px;
-
 }
 
 .flip {
@@ -483,7 +516,7 @@ article {
 // image captions
 img+em {
     display: block;
-    color: $internal-links;
+    color: $color-primary;
     text-align: center;
     width: 50%;
     margin-left: auto;
@@ -596,6 +629,21 @@ img+em {
 }
 
 
+  .license {
+  font-family: monospace;
+  line-height: 1.1em;
+  color: $color-text;
+  font-size: 1rem;
+  border: $article-border;
+  background-color: $color-items;
+  display: block;
+  padding: 1em;
+  max-width: 28em;
+  margin: 2em auto;
+  text-align: center;
+  }
+
+
 /* INDEX
 ================================================== */
 
@@ -621,13 +669,11 @@ img+em {
     text-align: left;
     margin-bottom: 1em;
     padding: 0.5em;
-    border: none;
+    border: thin solid $color-primary;
     box-sizing: border-box;
-        border-top: $article-border;
-
     
     &:hover {
-        color: red;
+        box-shadow: 0px 0px 0px 1px $color-primary;
     }
 }
 
@@ -641,9 +687,6 @@ font-weight: bold;
     text-decoration: underline;
     color: $color-text;
     overflow: hidden;
-        &:hover {
-        color: red;
-    }
 }
 
 .index-item-date, .library-item-filetype {
@@ -674,14 +717,15 @@ font-weight: normal;
 .archive-grid {
     display: grid;
     grid-template-columns: 33.33% 33.33% 33.33%;
-    grid-gap: -1px;
-    background-color: $background;
+    grid-gap: 0.5em;
     padding: 1em;
+    margin: auto;
 }
 
 .archive-card {
     background-color: $color-inner-divs;
     width: 100%;
+    margin: auto;
 }
 
 
@@ -713,7 +757,7 @@ font-weight: normal;
 }
 
 .library-image {
-    background: black;
+    background: white;
 }
 
 .library-image-container {
@@ -731,7 +775,7 @@ font-weight: normal;
 ================================================== */
 
 .tile h1, .home-link-button h1 {
-  margin: 0px;
+  margin: auto;
     width: 100%;
     text-align: center;
 }
@@ -746,7 +790,11 @@ font-weight: normal;
 
 .tile, .home-link-button {
    background-color: $color-inner-divs;    
-    border-top: $article-border;
+    border: thin solid $color-text;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     &:hover {
     background-color: $color-items;}
 }
@@ -762,21 +810,18 @@ font-weight: normal;
 ================================================== */
 
 .prev-next {
-    margin-bottom: 0em;
-    background-color: $background;
+    margin-bottom: 0.5em;
 //    display: grid;
 //    grid-template-columns: 10% 40% 40% 10%;
     width: 100%;
     padding: 1em;
-    height: 3em;
+    height: 3.5em;
     border-bottom: $prev-next-border;
 }
 
 .prev-next a {
-    text-decoration: underline;
-    &:hover {
-        color: red;
-    }
+    font-weight: bold;
+    text-decoration: none;
 }
 .prev {
     float: left;
@@ -787,7 +832,7 @@ font-weight: normal;
 }
 
 .title-text {
-    font-size: 1.5em;
+    font-size: 1.8em;
 }
 
 .subtitle-text {
@@ -805,9 +850,9 @@ font-weight: normal;
     width: 2em;
     height: 2em;
     float: right;
-    border: 2px solid black;
+    border: 2px solid white;
     box-sizing: border-box;
-    box-shadow: 0px 0px 0px 1px white;
+    box-shadow: 0px 0px 0px 1px black;
     margin-top: -1em;
 }
 
@@ -819,6 +864,7 @@ font-weight: normal;
     margin-top: 1em;
     display: block;
     background: $background;
+    border: $article-border;
     padding: 2em;
     height: 45em;
     
@@ -830,13 +876,13 @@ font-weight: normal;
 
 
   .links line {
-    stroke: black;
+    stroke: $color-primary;
     opacity: 0.5;
   }
 
   .nodes circle {
     cursor: pointer;
-    fill: black;
+    fill: $color-primary;
     transition: all 0.15s ease-out;
   }
 
@@ -899,30 +945,15 @@ table, tr, td {
 ================================================== */
 
 // Border around your posts
-
- article {
-    border-top: $article-border;
-    border-bottom: $article-border;
-    box-sizing: border-box;
-}
-
- .index-card {
+ article, .index-card {
+    border: $article-border;
     box-sizing: border-box;
 }
 
 // Border around the items in the sidebar
- .border {
+.sidebar-card, .border {
     border: $sidebar-border;
     box-sizing: border-box;
-}
-
-.sidebar-card {
-    box-sizing: border-box;
-    border-bottom: $article-border;
-}
-
-.tags {
-    border-bottom: none;
 }
 
 // Border around the next/previous buttons above and below your posts
@@ -962,7 +993,7 @@ table, tr, td {
     width: 40%;
     margin-left: 2em;
     font-size: 0.9em;
-    background: white;
+    background-color: $color-embed-background;
 }
 
 .left-aside {
@@ -972,7 +1003,7 @@ table, tr, td {
     width: 40%;
     margin-left: 2em;
     font-size: 0.9em;
-    background: white;
+    background-color: $color-embed-background;
 }
 
 .center{
@@ -989,15 +1020,38 @@ table, tr, td {
     padding: 1em;
 }
 
+.left {
+    float: left;
+    width: 50%;
+    padding: 1em;
+}
+
 .border {
-    border: thin solid white;
+    border: thin solid black;
 }
 
 .shadow {
-    box-shadow: 0px 0px 15px white;
+    box-shadow: 0px 0px 15px black;
 }
 
 .glow {
-    box-shadow: 0px 0px 15px black;
+    box-shadow: 0px 0px 15px white;
+}
+
+
+article, .prev-next, .sidebar-card, .sidebar-link-box, .backlinks-container, .index-card {
+background: rgba(255, 255, 255, 0.8);
+    border-radius: 16px;
+    
+        box-shadow: 0 4px 30px rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(255, 255, 255, 0.6);
+
+}
+
+body {
+    background-image: url("/assets/imgs/BGs/BGtile-3.png");
+    background-attachment: fixed;
+
+
 }
 
