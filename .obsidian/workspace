@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_articles/Greetings.md",
+            "file": "index.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/Greetings.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/Greetings.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_articles/Greetings.md"
+                "file": "index.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "7c45b8dc98202578",
   "lastOpenFiles": [
-    "_daily/2022-10-01.md",
-    "_articles/Set up a Custom Domain.md",
-    "_articles/Greetings.md",
-    "_articles/Configure Exocore for Personal Use.md",
-    "_articles/The Exocore Package.md",
-    "readme.md",
     "index.md",
-    "_journal/Exocore Feedback.md",
-    "_journal/Grip Training.md",
-    "_journal/Kariyushi Wear.md"
+    "readme.md",
+    "ring.md",
+    "_daily/2022-05-11.md",
+    "_daily/2022-10-01.md",
+    "_articles/Using your Exocore.md",
+    "_articles/Writing with Exocore Syntax.md",
+    "_scrapbook/Predictive Processing and the Free Energy Principle.md",
+    "assets/imgs/pfp.png",
+    "_articles/Greetings.md"
   ]
 }
