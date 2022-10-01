@@ -22,14 +22,14 @@ $color-box-shadow: none;
 
 
 /* --- Borders --- */
-$article-border: 1px black;
-$sidebar-border: 1px black;
+$article-border: 1px solid black;
+$sidebar-border: 1px solid black;
 $prev-next-border: none;
 $color-item-border: none;
 $border-radius: 0px;
 
 /* --- Embeds, Sidenote and Footnote Colors --- */
-$embed-border: 2px  black;
+$embed-border: 2px solid black;
 $color-embed-background: white;
 $color-embed-title: black;
 $color-embed-text: black;
@@ -53,7 +53,7 @@ $font-family-monospace: "Courier", "Lucida Console", "Menlo Regular", "IBM Plex 
 
 
 body {
-  font-family: $font-family-monospace;
+  font-family: $font-family-serif;
   padding: 4vh 6vw;
   overflow-x: hidden;
   color: $color-text;
