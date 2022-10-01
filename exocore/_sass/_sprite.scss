@@ -23,11 +23,10 @@ $color-box-shadow: none;
 
 
 /* --- Borders --- */
-$article-border: 1px solid rgba(255, 255, 255, 0.6);
-$sidebar-border: 1px solid rgba(255, 255, 255, 0.6);
-$prev-next-border: 1px solid rgba(255, 255, 255, 0.6);
+$article-border: 1px solid rgba(255, 255, 255, 1);
+$sidebar-border: 1px solid rgba(255, 255, 255, 1);
+$prev-next-border: 1px solid rgba(255, 255, 255, 1);
 $color-item-border: none;
-$border-radius: 0px;
 
 /* --- Embeds, Sidenote and Footnote Colors --- */
 $embed-border: medium double blue;
@@ -88,7 +87,6 @@ img {
   display: block;
   margin: 0 auto;
   max-height: 75vh;
-  border-radius: $border-radius;
   border: none;
   width:80%;
 }
@@ -402,7 +400,6 @@ article {
 }
 
 .profile-pic {
-    border-radius: 0%;
     width: 80px;
     margin-bottom: 0.5em;
     
@@ -496,7 +493,6 @@ article {
   margin: auto;
   margin-bottom: 2em;
   max-height: 75vh;
-  border-radius: $border-radius;
 }
 
 
@@ -546,7 +542,6 @@ img+em {
     line-height:1em;
     background-color: $color-items;
     border: 1px solid $color-primary;
-    border-radius: $border-radius;
     line-height:1em;
 }
 
@@ -1041,10 +1036,9 @@ table, tr, td {
 
 article, .prev-next, .sidebar-card, .sidebar-link-box, .backlinks-container, .index-card {
 background: rgba(255, 255, 255, 0.8);
-    border-radius: 16px;
     
         box-shadow: 0 4px 30px rgba(255, 255, 255, 0.8);
-    border: 1px solid rgba(255, 255, 255, 0.6);
+    border: 1px solid rgba(255, 255, 255, 1);
 
 }
 
