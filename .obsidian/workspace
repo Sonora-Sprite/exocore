@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_articles/Phantom Bonkler.md",
-            "mode": "preview",
+            "file": "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
+            "mode": "source",
             "source": true
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/Phantom Bonkler.md",
+                "file": "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/Phantom Bonkler.md",
+                "file": "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_articles/Phantom Bonkler.md"
+                "file": "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "22f17adc312b3860",
   "lastOpenFiles": [
+    "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
+    "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
+    "_journal/Jade post.md",
+    "_journal/The Exocore Workflow.md",
+    "_daily/2022-10-02.md",
+    "_articles/Phantom Bonkler.md",
     "_articles/Auction Core Thread.md",
     "_articles/Greetings.md",
-    "_articles/Phantom Bonkler.md",
-    "_articles/Phantom Bonkler.md",
     "_articles/Kaomoji Weaponry.md",
-    "exocore/_templates/_article.md",
-    "exocore/_templates/_daily.md",
-    "_daily/2022-10-02.md",
-    "_site/readme.md",
-    "index.md"
+    "exocore/_templates/_article.md"
   ]
 }
