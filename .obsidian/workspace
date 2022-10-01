@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_articles/Auction Core Thread.md",
+            "file": "_articles/Phantom Bonkler.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/Auction Core Thread.md",
+                "file": "_articles/Phantom Bonkler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/Auction Core Thread.md",
+                "file": "_articles/Phantom Bonkler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_articles/Auction Core Thread.md"
+                "file": "_articles/Phantom Bonkler.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "22f17adc312b3860",
   "lastOpenFiles": [
-    "_articles/Greetings.md",
-    "_articles/Kaomoji Weaponry.md",
+    "_articles/Untitled.md",
+    "_articles/Phantom Bonkler.md",
     "_articles/Auction Core Thread.md",
+    "_articles/Kaomoji Weaponry.md",
+    "_articles/Greetings.md",
     "exocore/_templates/_article.md",
     "exocore/_templates/_daily.md",
     "_daily/2022-10-02.md",
     "_site/readme.md",
-    "index.md",
-    "_daily/2022-05-11.md",
-    "_daily/2022-10-01.md"
+    "index.md"
   ]
 }
