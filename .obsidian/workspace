@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pfp",
+                "query": "file:.s",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296,
-    "collapsed": true
+    "width": 296
   },
   "right": {
     "id": "fa5c2b51a2ba60c1",
@@ -130,7 +129,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "22f17adc312b3860",
+  "active": "cf91471a0053b065",
   "lastOpenFiles": [
     "_daily/2022-10-01.md",
     "_daily/2022-10-02.md",
