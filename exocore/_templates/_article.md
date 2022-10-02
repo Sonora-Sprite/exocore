@@ -1,6 +1,6 @@
 ---
 published: true
-topic: auction core
+topic:
 subtitle: 
 date: <% tp.date.now() %>
 tags: 
