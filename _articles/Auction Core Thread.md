@@ -10,8 +10,8 @@ tags: auctioncore, bonkler
 Auction Core as an Ethos and an Aesthetic bleeds through a lot of work, especially all of mine at Remilia Collective. Auction Core can be described as a modern practice heavily related to the Found Photography tradition of elevating “non-art” or “anonymous” photography to the level of Art. Auction Core finds its Artistic raw materials in the documentation of someone's collection, often at the time of sale.
 
 Sites and Collections of note to my specific usage of Auction Core are: 
-[[https://www.yahoo.co.jp/|Yahoo! Japan Auctions,]] 
-[[https://order.mandarake.co.jp/order/?lang=en|Mandarake]] and 
+[Yahoo! Japan Auctions,](https://www.yahoo.co.jp/) 
+[[https://order.mandarake.co.jp/order/?lang=en|Mandarake] and 
 [[https://www.fromjapan.co.jp/en/rakuten/|Rakuten]] for Manga, Figures, Sportswear and [[https://981.jp/|981.jp]] in Nagano or Hokkaido and 
 [[https://www.zillow.com/az/?searchQueryState=%7B%22pagination%22%3A%7B%7D%2C%22usersSearchTerm%22%3A%22AZ%22%2C%22mapBounds%22%3A%7B%22west%22%3A-118.35790895312499%2C%22east%22%3A-105.50390504687499%2C%22south%22%3A30.542901383394295%2C%22north%22%3A37.735567408353816%7D%2C%22regionSelection%22%3A%5B%7B%22regionId%22%3A8%2C%22regionType%22%3A2%7D%5D%2C%22isMapVisible%22%3Atrue%2C%22filterState%22%3A%7B%22sort%22%3A%7B%22value%22%3A%22globalrelevanceex%22%7D%2C%22ah%22%3A%7B%22value%22%3Atrue%7D%2C%22lot%22%3A%7B%22min%22%3A2178000%7D%7D%2C%22isListVisible%22%3Atrue%2C%22mapZoom%22%3A7%7D|Zillow]] 
 in Arizona for Land and Homes.
