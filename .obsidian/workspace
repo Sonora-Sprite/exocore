@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "exocore/_templates/_article.md",
+            "file": "_articles/Auction Core Thread.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exocore/_templates/_article.md",
+                "file": "_articles/Auction Core Thread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exocore/_templates/_article.md",
+                "file": "_articles/Auction Core Thread.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exocore/_templates/_article.md"
+                "file": "_articles/Auction Core Thread.md"
               }
             }
           }
@@ -130,6 +130,8 @@
   },
   "active": "22f17adc312b3860",
   "lastOpenFiles": [
+    "_daily/2022-10-01.md",
+    "exocore/_templates/_article.md",
     "exocore/_templates/_daily.md",
     "_journal/Untitled.md",
     "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
@@ -137,8 +139,6 @@
     "_articles/Exocore Installation Instructions.md",
     "_articles/Greetings.md",
     "_articles/Kaomoji Weaponry.md",
-    "_articles/Phantom Bonkler.md",
-    "_daily/2022-10-01.md",
-    "_daily/2022-10-02.md"
+    "_articles/Phantom Bonkler.md"
   ]
 }
