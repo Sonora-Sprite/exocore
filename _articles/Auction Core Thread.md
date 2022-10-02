@@ -3,7 +3,7 @@ published: true
 topic: auction core
 subtitle: 
 date: 2022-10-02
-tags: auctioncore
+tags: auctioncore, bonkler
 ---
 
 # Auction Core Thread
@@ -17,5 +17,5 @@ Auction Core also defines a curational sensibility when zoomed out; looking at t
 
 ![[bonkler el nast.png]]
 
-This curational spirit was what was explored in Bonkler. The one shown here as example features, A Beauty:Beast runway Soundtrack, Fod Korp Kaomoji Face. Runescape Bronze Armor, WoW Staff of Jordan, Harajuku Stickered Flip Phone, Twitter Emoji Swirling Star and El Nast Maplestory background. These objects were pulled together from various peoples personal “collections” and in a way that is both shocking and coherent, Bonkler is used here as the conceptual element of Auction Core itself.
+This curational spirit was what was explored in Bonkler. The one shown here as example features, A Beauty:Beast runway Soundtrack, Fod Korp Kaomoji Face. Runescape Bronze Armor, WoW Staff of Jordan, Harajuku Stickered Flip Phone, Twitter Emoji Swirling Star and El Nast Maplestory background. These objects were pulled together from various peoples personal “collections” and in a way that is both shocking and coherent, Bonkler is used here as [[Phantom Bonkler|the conceptual element of Auction Core itself.]]
 Auction Core has been very useful to me in this way. I can include images in my work that I have carried with me forever, or that I only just found today, and both are canonized and beautified equally.

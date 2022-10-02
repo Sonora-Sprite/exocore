@@ -7,9 +7,11 @@
         "id": "22f17adc312b3860",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "assets/imgs/icons/Windows-95.png"
+            "file": "_articles/Phantom Bonkler.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/imgs/icons/Windows-95.png",
+                "file": "_articles/Phantom Bonkler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/imgs/icons/Windows-95.png",
+                "file": "_articles/Phantom Bonkler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/imgs/icons/Windows-95.png"
+                "file": "_articles/Phantom Bonkler.md"
               }
             }
           }
@@ -128,15 +130,15 @@
   },
   "active": "22f17adc312b3860",
   "lastOpenFiles": [
-    "assets/imgs/icons/wiki.png",
-    "assets/imgs/icons/EXbPsHAWkAAR69e copy.png",
-    "assets/imgs/icons/EXbPsHAWkAAR69e copy 3.png",
-    "assets/imgs/icons/flat,750x,075,f-pad,750x1000,f8f8f8.u4.png",
-    "assets/imgs/icons/daily.gif",
-    "assets/imgs/icons/articles.png",
-    "assets/imgs/bg-article-vellum.jpg",
-    "assets/imgs/bg-vellum.jpg",
-    "assets/imgs/bg-yotsuba.gif",
-    "assets/imgs/BGtile-5.png"
+    "_articles/Kaomoji Weaponry.md",
+    "_articles/Auction Core Thread.md",
+    "_articles/Phantom Bonkler.md",
+    "_articles/Greetings.md",
+    "_articles/Exocore Installation Instructions.md",
+    "assets/imgs/BGs/BGtile-1.png",
+    "assets/imgs/BGs/bg-space.gif",
+    "assets/imgs/icons/journal.png",
+    "assets/imgs/icons/pp,840x830-pad,1000x1000,f8f8f8.png",
+    "assets/imgs/icons/Windows-95.png"
   ]
 }
