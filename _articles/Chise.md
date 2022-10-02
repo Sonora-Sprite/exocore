@@ -1,12 +1,13 @@
 ---
 published: true
-topic:
+topic: saikano
 subtitle: 
 date: 2022-10-02
-tags: 
+tags: saikano
 ---
 
-# Chise, Saikano, or The Last Love Song on this little Planet
+# Chise
+Saikano, or The Last Love Song on this little Planet
 
 ![[The Last Little Love Story on This Little Planet (Milady Sonora).png]]
 *a meme that I made with the intention of sending to space. Its text references Saikano (aka The Last Love Song on This Little Planet), a show whose main character Chise I reference heavily. The elements of the meme (a 981.jp landscape, urbit's "Angel wings' ' and a snow Scene from Frame Gride, a box blurred image of Yukari.) reference the angelic extinction duty of Chise and the cold setting of the show. The meme has also been bent into shape to provide a backdrop and a surface like the auction sellers often do*
@@ -32,4 +33,3 @@ Wim Mertens - struggle for pleasure
 Saikano Ep 1,2,3,6,10,11,12,13
 
 and referenced in this [[2022-10-02]]
-
