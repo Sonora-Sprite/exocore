@@ -2,7 +2,7 @@
 published: true
 topic:
 subtitle: 
-date: <% tp.date.now() %>
+date: {{date:YYYY-MM-DD}}
 tags: 
 ---
 

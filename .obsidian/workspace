@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6d855448543cf100",
+        "id": "993bdc812243e6bc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "_articles/(httpswww.are.namilady-sonora).md",
             "mode": "source",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "exocore",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "_articles/(httpswww.are.namilady-sonora).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "_articles/(httpswww.are.namilady-sonora).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "_articles/(httpswww.are.namilady-sonora).md"
               }
             }
           }
@@ -129,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6d855448543cf100",
+  "active": "e509f202f4abd033",
   "lastOpenFiles": [
+    "exocore/_templates/_article.md",
+    "exocore/_templates/_daily.md",
+    "_articles/(httpswww.are.namilady-sonora).md",
+    "_articles/Auction Core Thread.md",
+    "index.md",
     "_articles/Exocore Installation Instructions.md",
     "_daily/2022-10-02.md",
     "_daily/2022-10-01.md",
     "_articles/Phantom Bonkler.md",
-    "_articles/Kaomoji Weaponry.md",
-    "_articles/Auction Core Thread.md",
-    "exocore/_templates/_daily.md",
-    "exocore/_templates/_article.md",
-    "exocore/_templates/_wiki.md",
-    "exocore/_templates/_scrapbook.md"
+    "_articles/Kaomoji Weaponry.md"
   ]
 }
