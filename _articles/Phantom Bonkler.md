@@ -14,5 +14,5 @@ Its been a Year since Bonkler and Bonkler Will Run One a Day for a Year after th
 ![[average milady.png]]*For example, via generation and edits and derivatives, the archetype of a Milady is strengthened.*
 
  The thing is, this True Bonkler or this archetype doesn't exist especially pre-release, nevertheless its still become a aesthetic profile thats recognizable to people both internal to Remilia and externally to dedicated fans. A Phantom Limb that is almost entirely functional. It's a Phantom occupying space in my personal aesthetic structures. Still even in this form, the idea of something Being like a Bonkler, or like a Bonkler asset has been helpful to me as a way to see new things and to more freely appropriate them in turn.  
- Bonkler is The Hero of[[Auction Core Thread|Auction Core]] .
+ Bonkler is The Hero of [[Auction Core Thread|Auction Core]] .
  I made a project with this lens that essentially ended up being the "Bonkler of found photography", and its made me wonder if the framework could be extended, if I could make the Bonkler of Clothing labels, the Bonkler of film and so on and so forth.
