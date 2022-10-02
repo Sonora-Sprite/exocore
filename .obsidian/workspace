@@ -7,12 +7,8 @@
         "id": "6a04cdb21279ef2c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_articles/Chise.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/Chise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/Chise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_articles/Chise.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -128,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6a04cdb21279ef2c",
+  "active": "e509f202f4abd033",
   "lastOpenFiles": [
+    "_articles/Greetings.md",
+    "_articles/Kaomoji Weaponry.md",
+    "_articles/Phantom Bonkler.md",
     "_articles/Chise.md",
     "exocore/_templates/_article.md",
     "exocore/_templates/_daily.md",
     "_articles/Auction Core Thread.md",
     "index.md",
     "_articles/Exocore Installation Instructions.md",
-    "_daily/2022-10-02.md",
-    "_daily/2022-10-01.md",
-    "_articles/Phantom Bonkler.md",
-    "_articles/Kaomoji Weaponry.md"
+    "_daily/2022-10-02.md"
   ]
 }
