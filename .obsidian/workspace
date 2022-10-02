@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_daily/2022-10-02.md",
+            "file": "_articles/Phantom Bonkler.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2022-10-02.md",
+                "file": "_articles/Phantom Bonkler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2022-10-02.md",
+                "file": "_articles/Phantom Bonkler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2022-10-02.md"
+                "file": "_articles/Phantom Bonkler.md"
               }
             }
           }
@@ -130,6 +130,7 @@
   },
   "active": "22f17adc312b3860",
   "lastOpenFiles": [
+    "_daily/2022-10-02.md",
     "_articles/Phantom Bonkler.md",
     "_articles/Kaomoji Weaponry.md",
     "_articles/Auction Core Thread.md",
@@ -138,7 +139,6 @@
     "assets/imgs/BGs/BGtile-1.png",
     "assets/imgs/BGs/bg-space.gif",
     "assets/imgs/icons/journal.png",
-    "assets/imgs/icons/pp,840x830-pad,1000x1000,f8f8f8.png",
-    "assets/imgs/icons/Windows-95.png"
+    "assets/imgs/icons/pp,840x830-pad,1000x1000,f8f8f8.png"
   ]
 }
