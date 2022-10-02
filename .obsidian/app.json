@@ -8,5 +8,5 @@
   "showLineNumber": true,
   "showUnsupportedFiles": true,
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "absolute"
 }
