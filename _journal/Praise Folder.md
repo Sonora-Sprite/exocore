@@ -2,7 +2,7 @@
 published: true
 subtitle: 
 date: 2022-10-02
-tags: 
+tags: substack
 ---
 
 # Praise Folder
@@ -24,4 +24,6 @@ its been a great way to have some of the truly beautiful things said to me by tr
 
 thanks to all of you guys :D
 
-imported from substack, orginally published Jun 24, 2021
+![[1bb50a81-7a7c-4e83-a857-d109ab025301_1200x1200.jpg]]
+
+imported from Substack, orginally published Jun 24, 2021
