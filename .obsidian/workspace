@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_articles/Phantom Bonkler.md",
+            "file": "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/Phantom Bonkler.md",
+                "file": "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/Phantom Bonkler.md",
+                "file": "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_articles/Phantom Bonkler.md"
+                "file": "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "22f17adc312b3860",
   "lastOpenFiles": [
-    "_articles/Kaomoji Weaponry.md",
-    "_articles/Greetings.md",
     "_articles/Exocore Installation Instructions.md",
     "_articles/Auction Core Thread.md",
+    "_articles/Greetings.md",
+    "_articles/Kaomoji Weaponry.md",
+    "_articles/Phantom Bonkler.md",
     "_daily/2022-10-02.md",
     "_daily/2022-10-01.md",
     "assets/imgs/BGtile-5.png",
     "assets/imgs/card.png",
-    "_articles/Phantom Bonkler.md",
     "assets/imgs/BGs/BGtile-1.png"
   ]
 }
