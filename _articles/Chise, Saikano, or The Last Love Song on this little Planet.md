@@ -22,3 +22,14 @@ Chise is an amazing character i think about a lot. Her role in the show (Saikano
 *Saikano was also very special to me because me and Mara Barl just both parallel decided to watch it at the same time. without communicaiton, a little timeline sync back in the day of explosive posting*
 ![[Forever Auction 01 Chise.png.png]]
 *There was also a Brief period where I made an alt and named it Chise. i posted to see if i could make the same friends again, got added to the chat as the alt, played the role for a while. I then revealed the trick and absorbed the friendships even stronger*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xh9ORvc9FgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+And finally the Saikano Recut I made out of:
+Wim Mertens - close cover
+Wim Mertens - birds for the mind
+Wim Mertens - struggle for pleasure
+Saikano Ep 1,2,3,6,10,11,12,13
+
+and referenced in this [[2022-10-02]]
+
