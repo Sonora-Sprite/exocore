@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_articles/Auction Core Thread.md",
+            "file": "_articles/Graphwiz Testing.md",
             "mode": "source",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "staff",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/Auction Core Thread.md",
+                "file": "_articles/Graphwiz Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/Auction Core Thread.md",
+                "file": "_articles/Graphwiz Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_articles/Auction Core Thread.md"
+                "file": "_articles/Graphwiz Testing.md"
               }
             }
           }
@@ -130,6 +130,8 @@
   },
   "active": "6a04cdb21279ef2c",
   "lastOpenFiles": [
+    "images/staff3.jpg",
+    "_articles/Auction Core Thread.md",
     "_articles/Graphwiz Testing.md",
     "images/43_i-img679x509-1564610122bwlsdy318187-jpg.jpg",
     "images/37_jfif.jpg",
@@ -137,8 +139,6 @@
     "_articles/Praise Folder.md",
     "_articles/Kaomoji Weaponry.md",
     "_articles/Chise.md",
-    "_articles/Phantom Bonkler.md",
-    "_articles/Auction Core Thread.md",
-    "_daily/2022-10-05.md"
+    "_articles/Phantom Bonkler.md"
   ]
 }
