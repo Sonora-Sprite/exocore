@@ -14,25 +14,25 @@ node [shape=box];
 edge [dir=none];
 
 Label1[
-    label="Label1"
+    label="Staff 1"
     height="2.1"
     imagepos="tc"
     labelloc="b"
-    image="assets/images/Avatar1.png"
+    image="assets/images/staff1.webp"
 ];
 Label2[
-    label="Label2"
+    label="Staff 2"
     height="2.1"
     imagepos="tc"
     labelloc="b"
-    image="images/Avatar2.png"
+    image="images/staff2.webp"
 ];
 Label3[
-    label="Label3"
+    label="Staff 3"
     height="2.1"
     imagepos="tc"
     labelloc="b"
-    image="images/Avatar3.png"
+    image="images/staff3.jpg"
 ];
 
 { 
