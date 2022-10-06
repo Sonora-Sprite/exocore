@@ -26,7 +26,8 @@ Label2[
 ];
 Label3[
     label="Staff 3"
-    image="images/staff3.jpg"
+
+imgnode[image="images/staff3.jpg", label="Staff 3"];
 ];
 
 { 
