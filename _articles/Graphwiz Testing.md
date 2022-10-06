@@ -16,7 +16,7 @@ imgnode [shapefile="staff3.jpg", label="Staff 3"];
 
 
 subgraph cluster_Rejewski {label="M. Rejewski"; labelloc="b"; Rejewski_icon};
-    Rejewski_icon [label="", shapefile="staff3.jpg"];
+    Rejewski_icon [label="", shapefile="![[_articles/staff3.jpg]]"];
 
 Label2[
     label="Label2"
