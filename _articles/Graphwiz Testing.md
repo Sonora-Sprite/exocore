@@ -12,7 +12,7 @@ tags:
 
 digraph G{
 
-imgnode [image="staff3.jpg", label="Staff 3"];
+imgnode [shapefile="staff3.jpg", label="Staff 3"];
 
 { 
    imgnode -> Gallery
