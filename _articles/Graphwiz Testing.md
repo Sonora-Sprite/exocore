@@ -7,7 +7,7 @@ tags:
 ---
 
 # Graphwiz Testing
-
+![[_articles/staff3.jpg]]
 {% graphviz %}
 
 digraph G{
