@@ -11,9 +11,6 @@ tags:
 {% graphviz %}
 
 digraph G{
- bgcolor="black"
-    node [shape=rectangle, style=filled fillcolor=black, color=orange, fontcolor=orange, labelfontcolor=orange];
-    edge [color=orange, fontcolor=orange, labelfontcolor=orange];
 
 imgnode [image="staff3.jpg", label="Staff 3"];
 
