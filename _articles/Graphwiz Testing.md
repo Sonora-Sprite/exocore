@@ -7,25 +7,43 @@ tags:
 ---
 
 # Graphwiz Testing
-![[staff3.jpg]]
-{% graphviz %}
-
 digraph G{
 layout=fdp
-  e
-  Sprite -> a;
-  subgraph clusterA [label="AuctionCore"] {
-    a -> b;
-    b -> D;
+
+{rank=same; clusterA clusterB;}
+{rank=same; clusterAudience;}
+  Milady -> "Captivating Image";
+  subgraph clusterA  {
+    "Captivating Image" -> Faction;
+ Faction -> "Violent expansion";
     subgraph clusterC {
-      C -> D;
+      "Violent expansion" ->  clusterAudience;
+      
     }
   }
   subgraph clusterB {
-    d -> f
+    "Shake out" -> "cooling off period"
   }
-  d -> D
-  e -> clusterB
-  clusterC -> clusterB
+
+ subgraph clusterD {
+      RemiliaChat
+      "Yayo Supplements"
+      "Remilia Fashion"
+      "Exocore"
+      label = "Neet Ascension";
+      
+
+  }
+  subgraph clusterAudience{
+ "Remilia Publishing"
+ "Milady Rave" -> "Remilia Records" ;
+ label = "Audience"
+  }
+
+  clusterA -> clusterB;
+  clusterB -> clusterAudience
+  clusterAudience -> clusterD
+  
+ 
 }
 {% endgraphviz %}
