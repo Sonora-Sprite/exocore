@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_articles/Graphwiz Testing.md",
+            "file": "_articles/Auction Core Thread.md",
             "mode": "source",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "staff3",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/Graphwiz Testing.md",
+                "file": "_articles/Auction Core Thread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/Graphwiz Testing.md",
+                "file": "_articles/Auction Core Thread.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_articles/Graphwiz Testing.md"
+                "file": "_articles/Auction Core Thread.md"
               }
             }
           }
@@ -129,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cf91471a0053b065",
+  "active": "6a04cdb21279ef2c",
   "lastOpenFiles": [
+    "_articles/Graphwiz Testing.md",
+    "images/43_i-img679x509-1564610122bwlsdy318187-jpg.jpg",
+    "images/37_jfif.jpg",
     "_articles/The Exocore Workflow.md",
     "_articles/Praise Folder.md",
     "_articles/Kaomoji Weaponry.md",
-    "_articles/Graphwiz Testing.md",
     "_articles/Chise.md",
     "_articles/Phantom Bonkler.md",
     "_articles/Auction Core Thread.md",
-    "_daily/2022-10-05.md",
-    "_daily/2022-10-06.md",
-    "_daily/2022-10-03.md"
+    "_daily/2022-10-05.md"
   ]
 }
