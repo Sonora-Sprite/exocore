@@ -2,11 +2,12 @@
 published: true
 topic:
 subtitle: 
-date: {{date:YYYY-MM-DD}}
+date: 2022-10-06
 tags: 
 ---
 
 # Graphwiz Testing
+
 {% graphviz %}
 digraph {
 graph [compound=true, labelloc="b"];
