@@ -13,8 +13,10 @@ tags:
 digraph G{
 layout=fdp
   e
-  subgraph clusterA {
+  Sprite -> a;
+  subgraph clusterA [label="AuctionCore"] {
     a -> b;
+    b -> D;
     subgraph clusterC {
       C -> D;
     }
